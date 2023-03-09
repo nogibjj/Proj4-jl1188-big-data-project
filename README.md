@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust Big Data Platform Project
+This is a project for IDS 721, and the goal of this project is to create a tool for data engineering that uses a big data platform.
 
 ## References
 
